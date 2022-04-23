@@ -30,3 +30,30 @@ body {
       text-align: center;
       color: black;
   }
+
+  a:link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF9900;
+    text-decoration: underline;
+    }
+    a:visited {
+    color: #FFCC66;
+    }
+    a:hover {
+    background: #FFFFCC;
+    font-weight: bold;
+    }
+    
+
+    .topline {
+        border-top: thick solid #FFCC00;
+        }
+
+        #main img {
+            float: left;
+            margin-right: 5px;
+            margin-bottom: 15px;
+            }
+            .noborder {
+            border: 0px none;
+            }
