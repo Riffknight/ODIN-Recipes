@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+  }
+
+  head{
+      background-color: aqua;
+  }
+
+  p{
+      text-align: center;
+      color: black;
+  }
